@@ -4,4 +4,4 @@ The android weather app that was created during the codejam session. Please edit
 Its important to note that this app is not error proof. It will crash at any point when certain conditions are not met. As stated during the session, its up to the students to debug  and fix those errors.
 #Screenshot
 Below is a screenshot of the barebone app. Am sure you will do better than i did.
-![Alt Text](https://github.com/mwakaambrose/weather/raw/master/shot-1.png)
+![Alt Text](https://github.com/mwakaambrose/weather/raw/master/shot-2.png)
